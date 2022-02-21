@@ -1,0 +1,20 @@
+{
+  "food": [
+    {
+      "ID": "F01",
+      "name": "Pho",
+      "price": 20000
+    },
+    {
+      "ID": "F02",
+      "name": "Bun bo Hue",
+      "price": 30000
+    },
+    {
+      "ID": "F03",
+      "name": "My quang",
+      "price": 50000
+    },
+    { "ID": "F04", "name": "Banh mi", "price": 15000 }
+  ]
+}
